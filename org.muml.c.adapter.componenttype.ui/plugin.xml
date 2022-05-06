@@ -6,7 +6,7 @@
               point="org.muml.codegen.targetPlatformExtension">
            <targetPlatform
                  class="org.muml.c.adapter.componenttype.ui.export.C99SourceCodeExport"
-                 name="Component Type ANSI C99">
+                 name="Component Type ANSI C99_Source">
            </targetPlatform>
         </extension>
 </plugin>

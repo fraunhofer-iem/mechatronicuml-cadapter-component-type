@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="org.muml.c.adapter.componenttype.ui/src"/>
+	<classpathentry kind="src" path="org.muml.c.adapter.componenttype/src"/>
+	<classpathentry kind="src" path="org.muml.codegen.componenttype.beautifier/src"/>
+	<classpathentry kind="src" path="org.muml.codegen.componenttype.export.ui/src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
